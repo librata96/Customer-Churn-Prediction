@@ -8,7 +8,7 @@ Then deploying the deep learning model on Hugging Face to be used online.
 - PhiK
 - Pandas
 - Numpy
-- Seaborn adn Matplotlib
+- Seaborn and Matplotlib
 
 
 ## Deployment
